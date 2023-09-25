@@ -1,0 +1,58 @@
+
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.header {
+    background-color: #90caf9;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.header h1 {
+    color: white;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+button {
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0b7dda;
+}
+
+.definition-group {
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.definition {
+    margin-bottom: 20px; 
+}
+
+.definition h3 {
+    color: #2196F3;
+}
+
+#accidents {
+    display: none;
+}
