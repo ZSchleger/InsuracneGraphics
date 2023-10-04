@@ -58,6 +58,10 @@ button:hover {
     display: none;
 }
 
+#people {
+    display: none;
+}
+
 .logo {
     max-width: 200px; 
     height: auto; 
